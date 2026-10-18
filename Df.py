@@ -1,6 +1,5 @@
 import pandas as pd
 
-# Tengo problemas con el dataset, por que cada columna debe de contener el mismo numero de filas.
 datos = {
     "producto": [
         "Cuaderno", "lapicera", "mochila", "Regla", "Cartuchera",
